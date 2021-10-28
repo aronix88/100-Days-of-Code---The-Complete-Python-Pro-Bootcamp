@@ -1,3 +1,0 @@
-#Write your code below this line 👇
-#Program printing length of user input
-print(len(input("What is your name? ")))
